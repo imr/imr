@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there! I am Ian, an embedded systems engineer. I design circuits and write software.
 
+I am known for maintaining a mirror of the ngspice source code here on Github, a Mandelbrot FPGA project that a lot of students probably steal, and a stack machine in Verilog. You might also find fun little projects for an STM32F4 demo board.
+
+#### 🔭 I’m currently working on an ASIC design utilizing the google skywater PDK.
+
+#### 📫 How to reach me: Make a pull request on one of my original repos. That would get my attention.
+
+#### ⚡ Fun fact: I have a soft spot for VHDL.
 <!--
 **imr/imr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
